@@ -1,1 +1,1 @@
-# nextjs-blog-template
+# Nextjs Blog Template
